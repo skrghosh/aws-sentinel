@@ -1,6 +1,6 @@
 # AWS Sentinel – Open Source AWS Security Scanner
 
-This project is a lightweight Lambda-based tool to audit your AWS account for the most common and dangerous misconfigurations:
+This tool is a lightweight Lambda-based tool to audit your AWS account for the most common and dangerous misconfigurations:
 - Over-privileged IAM users
 - Public S3 buckets
 
